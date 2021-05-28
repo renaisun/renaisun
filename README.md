@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **renaisun/renaisun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <h3><pre>Write code && Have fun</pre></h3>
+  <br>
+  <img src="https://github-stat.vercel.app/api?username=renaisun&count_private=true&theme=algolia&show_icons=true">
+  <br>
+</div>

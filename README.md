@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 <div align="center">
   <h3><pre>Write code && Have fun</pre></h3>
   <br>
-  <img src="https://github-stat.vercel.app/api?username=renaisun&count_private=true&theme=algolia&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=renaisun&count_private=true&theme=algolia&show_icons=true">
   <br>
 </div>

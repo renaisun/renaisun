@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <h3><pre>Write code && Have fun</pre></h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=renaisun&count_private=true&theme=algolia&show_icons=true">
-  <br>
-</div>
+I'm currently a first-year master student studying Electrical & Computer Engineering at University of Washington. 
+- **Work**: making salad and doing cashier at canteen.
+- **Learning**: Nihongo 
